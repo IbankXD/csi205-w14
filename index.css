@@ -1,3 +1,11 @@
+body{
+    background-image: linear-gradient(to right, #ffecd2, #fcb69f);
+}
+.title{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+}
 .containerpisit{
     border: 3px solid black;
     text-align: center;
@@ -7,4 +15,21 @@
     background-color: lightblue;
     border-radius: 25px;
     box-shadow: 10px 10px 5px grey;
+}
+
+.divBank{
+    border: 3px solid black;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+    background: linear-gradient(to right, #ff9900, #7a00e6);
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px grey;
+}
+.bank{
+    border-radius: 60px;
+    box-shadow: 10px 10px 5px grey; 
+    width: 175px;
+    height: 225px
 }
