@@ -26,6 +26,7 @@ body{
     background: linear-gradient(to right, #ff9900, #7a00e6);
     border-radius: 25px;
     box-shadow: 10px 10px 5px grey;
+    font-style: normal;
 }
 .bank{
     border-radius: 60px;
